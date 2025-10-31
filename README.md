@@ -15,10 +15,3 @@ It implements a command-line system for managing a supermarket, including produc
 - Custom data structures and modular design
 
 
-## Build & Run
-```bash
-# build
-gcc -o supermarket main.c inventory.c customer.c io.c utils.c
-
-# run
-./supermarket
